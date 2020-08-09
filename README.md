@@ -1,3 +1,7 @@
+# 如何跑通
+https://github.com/xiaofengShi/CHINESE-OCR/issues/83
+
+
 # 本文基于tensorflow、keras/pytorch实现对自然场景的文字检测及端到端的OCR中文文字识别
 
 # update20190706
